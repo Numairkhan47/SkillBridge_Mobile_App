@@ -1,0 +1,13 @@
+{
+  "name": "skillbridge-demo-backend",
+  "version": "1.0.0",
+  "description": "Minimal Express REST API demonstrating backend integration for the SkillBridge Flutter app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
